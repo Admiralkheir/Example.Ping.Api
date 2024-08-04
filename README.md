@@ -20,26 +20,16 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 This project was created as part of an [article](https://dev.to/admiralkheir/zero-downtime-deployment-for-aspnet-applications-in-kubernetes-30li) examining the fiction of Zero-Downtime Deployment in ASP.NET Web API projects published on Kubernetes.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
 * ASP.NET Core 8.0
 * Kind
 * Kubernetes
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -68,8 +58,6 @@ To install the project, follow these steps;
     dotnet run
     ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 ## Contact
 
@@ -77,4 +65,4 @@ Tugay Ersoy - [@Admiralkheir](https://x.com/Admiralkheir) - tugay.ersoy@gmail.co
 
 Project Link: [https://github.com/Admiralkheir/Example.Ping.Api](https://github.com/Admiralkheir/Example.Ping.Api)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
