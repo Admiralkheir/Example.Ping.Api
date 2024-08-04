@@ -1,0 +1,6 @@
+@Example.Ping.Api_HostAddress = http://localhost:5043
+
+GET {{Example.Ping.Api_HostAddress}}/PingPong/Ping
+Accept: application/json
+
+###
